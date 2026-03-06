@@ -62,7 +62,7 @@ I'm a Software Engineering graduate (University of Waikato, 2026) who specialise
 
 ## 🚀 Featured Projects
 
-### 🏎️ [WESMO Formula SAE EV Telemetry System](https://github.com/wesmoFSAE/2024-DAQ-VIS))
+### 🏎️ [WESMO Formula SAE EV Telemetry System](https://github.com/wesmoFSAE/2024-DAQ-VIS)
 > Python · React · AWS · Redis · PostgreSQL · MQTT · CAN Bus
 
 Full-stack real-time telemetry platform for an electric Formula SAE race car.
