@@ -4,7 +4,7 @@
 
 **Software Engineer · University of Waikato, BE (Hons) · Auckland, NZ**
 
-*I build things that move fast — real-time pipelines, intelligent systems, and full-stack products.*
+*I build things that move fast, real-time pipelines, intelligent systems, and full-stack products.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addysha)
@@ -18,8 +18,8 @@
 
 I'm a Software Engineering graduate (University of Waikato, 2026) who specialises in **real-time data systems**, **full-stack development**, and **AI-integrated applications**. I've shipped production-grade code across IoT telemetry, cloud infrastructure, enterprise IT automation, and SaaS platforms.
 
-- 🔧 Currently building **StackIt** — a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
-- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** — 600+ msg/min, <250ms fault detection, AWS-backed
+- 🔧 Currently building **StackIt** | a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
+- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** | 600+ msg/min, <250ms fault detection, AWS-backed
 - 🏙️ Past intern @ **Auckland Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
 - 🧠 AWS Solutions Architect certified | ML, Quantum Computing, Digital Twins coursework
 - 📍 Based in Auckland/Hamilton, NZ | Open to graduate roles
@@ -68,11 +68,11 @@ I'm a Software Engineering graduate (University of Waikato, 2026) who specialise
 Full-stack real-time telemetry platform for an electric Formula SAE race car.
 - **600+ messages/min** sustained during live track runs, **10 Hz** dashboard refresh
 - **<250ms** fault detection across 150+ signals (BMS, MCU, VCU) via Redis pre-fault engine
-- **Hybrid edge + AWS architecture** — buffered ingestion during connectivity loss, 100% data integrity
+- **Hybrid edge + AWS architecture** - buffered ingestion during connectivity loss, 100% data integrity
 
 ---
 
-### 📊 [StackIt — Small Business Analytics Platform](https://github.com/addysha/stackit)
+### 📊 [StackIt - Small Business Analytics Platform](https://github.com/addysha/stackit)
 > Next.js · TypeScript · Node.js · PostgreSQL · Redis · Shopify/Square/Stripe APIs
 
 Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
@@ -81,7 +81,7 @@ Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
 
 ---
 
-### 🤖 [Believing is Seeing — Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
+### 🤖 [Believing is Seeing - Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
 > Python · Dart · HTML · DBpedia · Knowledge Graphs
 
 Real/fake AI-generated image game powered by a live knowledge-graph content engine.
@@ -93,21 +93,21 @@ Real/fake AI-generated image game powered by a live knowledge-graph content engi
 ### 📡 [VolumeControl-CompVis](https://github.com/addysha/VolumeControl-CompVis)
 > Python · OpenCV · Computer Vision
 
-Gesture-based PC volume control using real-time hand tracking via computer vision — no hardware required.
+Gesture-based PC volume control using real-time hand tracking via computer vision - no hardware required.
 
 ---
 
 ### 🌐 [Socket Programming Suite](https://github.com/addysha/SocketProgramming)
 > Java · InetAddress · Socket
 
-Demonstrates low-level network programming in Java — TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
+Demonstrates low-level network programming in Java - TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
 
 ---
 
 ### 🏦 [Bank Account Sorter](https://github.com/addysha/Bank-AccountSort)
 > Java · Data Structures · OOP
 
-Complex data structure implementation for sorting and filtering bank account records — demonstrates algorithmic thinking and clean OOP design.
+Complex data structure implementation for sorting and filtering bank account records - demonstrates algorithmic thinking and clean OOP design.
 
 ---
 
