@@ -105,6 +105,29 @@ Low-level network programming in Java - TCP/UDP socket handling, InetAddress res
 
 </div>
 
+----
+
+## 📊 GitHub Stats
+ 
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=addysha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addysha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=addysha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+ 
+</div>
+ 
+<div align="center">
+ 
+[![Addy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addysha&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
