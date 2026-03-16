@@ -185,7 +185,7 @@ Low-level network programming in Java — TCP/UDP socket handling, InetAddress r
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/addysharmaz?theme=dark&font=Baloo_2&ext=heatmap)](https://leetcode.com/addysharmaz)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/addysharmaz?theme=dark&font=Baloo_2&ext=heatmap)](https://leetcode.com/u/addysharmap/)
 
 </div>
 
