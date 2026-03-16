@@ -21,9 +21,9 @@
 
 I'm a Software Engineering graduate (University of Waikato, 2026) specialising in **real-time data systems**, **full-stack development**, and **AI-integrated applications**. I've shipped production-grade code across IoT telemetry, cloud infrastructure, enterprise IT automation, and SaaS platforms.
 
-- 🧱 Currently building **StackIt** — a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
-- 🏥 Technical lead on **IncidentStandard** — AI-powered workplace safety SaaS (Next.js 14, Supabase, GPT-4o)
-- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** — 600+ msg/min, <250ms fault detection, AWS-backed
+- 🧱 Currently building **StackIt** - a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
+- 🏥 Technical lead on **IncidentStandard** - AI-powered workplace safety SaaS (Next.js 14, Supabase, GPT-4o)
+- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** - 600+ msg/min, <250ms fault detection, AWS-backed
 - 🏛️ Past intern @ **Auckland City Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
 - ☁️ AWS Solutions Architect coursework | ML, Quantum Computing, Digital Twins
 - 📍 Based in Auckland/Hamilton, NZ · Open to graduate roles
@@ -74,11 +74,11 @@ I'm a Software Engineering graduate (University of Waikato, 2026) specialising i
 Full-stack real-time telemetry platform for an electric Formula SAE race car.
 - 600+ messages/min sustained during live track runs, 10 Hz dashboard refresh
 - <250ms fault detection across 150+ signals (BMS, MCU, VCU) via Redis pre-fault engine
-- Hybrid edge + AWS architecture — buffered ingestion during connectivity loss, 100% data integrity
+- Hybrid edge + AWS architecture, buffered ingestion during connectivity loss, 100% data integrity
 
 ---
 
-### 📊 [StackIt — Small Business Analytics Platform](https://github.com/addysha/StackIt)
+### 📊 [StackIt - Small Business Analytics Platform](https://github.com/addysha/StackIt)
 `Next.js · TypeScript · Node.js · PostgreSQL · Redis · Shopify/Square/Stripe APIs`
 
 Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
@@ -88,7 +88,7 @@ Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
 
 ---
 
-### 🏥 [IncidentStandard — AI Workplace Safety SaaS](https://github.com/addysha/incidentstandard)
+### 🏥 [IncidentStandard - AI Workplace Safety SaaS](https://github.com/addysha/incidentstandard)
 `Next.js 14 · Supabase · GPT-4o · PostgreSQL`
 
 AI-powered incident reporting and compliance platform for NZ workplaces.
@@ -98,7 +98,7 @@ AI-powered incident reporting and compliance platform for NZ workplaces.
 
 ---
 
-### 🎨 [Believing is Seeing — Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
+### 🎨 [Believing is Seeing - Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
 `Python · Dart · HTML · DBpedia · Knowledge Graphs`
 
 Real/fake AI-generated image game powered by a live knowledge-graph content engine.
@@ -110,14 +110,14 @@ Real/fake AI-generated image game powered by a live knowledge-graph content engi
 ### 🖐️ [VolumeControl-CompVis](https://github.com/addysha/VolumeControl-CompVis)
 `Python · OpenCV · Computer Vision`
 
-Gesture-based PC volume control using real-time hand tracking — no hardware required.
+Gesture-based PC volume control using real-time hand tracking, no hardware required.
 
 ---
 
 ### 🌐 [Socket Programming Suite](https://github.com/addysha/SocketProgramming)
 `Java · InetAddress · Socket`
 
-Low-level network programming in Java — TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
+Low-level network programming in Java - TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
 
 ---
 
@@ -162,7 +162,7 @@ Low-level network programming in Java — TCP/UDP socket handling, InetAddress r
 
 | Certification | Issuer | Date |
 |---|---|---|
-| AWS Solutions Architect — Course Completion | Udemy | Jan 2026 |
+| AWS Solutions Architect - Course Completion | Udemy | Jan 2026 |
 | Machine Learning A-Z: AI, Python & R | Udemy | Feb 2026 |
 | Modelling New Zealand with AI & Digital Twins | Engineering NZ | Dec 2025 |
 | AI Data Management & Cyber Security Webinar | Live Event | Nov 2025 |
