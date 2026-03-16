@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d2137,100:0D1117&height=140&section=header&text=&fontSize=0" />
 
-# Aditya (Addy) Sharma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Aditya+(Addy)+Sharma)](https://git.io/typing-svg)
 
-**Software Engineer · University of Waikato, BE (Hons) · Auckland, NZ**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=750&height=40&lines=Real-time+systems+%7C+Full-stack+dev+%7C+AI+products;Building+StackIt+%26+IncidentStandard+%F0%9F%9A%80;Software+Engineer+%7C+Auckland%2C+NZ+%7C+Open+to+grad+roles)](https://git.io/typing-svg)
 
-*I build things that move fast, real-time pipelines, intelligent systems, and full-stack products.*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sharma-076116282)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addysha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Profile Views](https://komarev.com/ghpvc/?username=addysha&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/addysha)
 
 </div>
 
@@ -21,6 +22,7 @@
 I'm a Software Engineering graduate (University of Waikato, 2026) specialising in **real-time data systems**, **full-stack development**, and **AI-integrated applications**. I've shipped production-grade code across IoT telemetry, cloud infrastructure, enterprise IT automation, and SaaS platforms.
 
 - 🧱 Currently building **StackIt** — a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
+- 🏥 Technical lead on **IncidentStandard** — AI-powered workplace safety SaaS (Next.js 14, Supabase, GPT-4o)
 - 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** — 600+ msg/min, <250ms fault detection, AWS-backed
 - 🏛️ Past intern @ **Auckland City Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
 - ☁️ AWS Solutions Architect coursework | ML, Quantum Computing, Digital Twins
@@ -59,8 +61,9 @@ I'm a Software Engineering graduate (University of Waikato, 2026) specialising i
 **Real-Time & IoT**
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6B00?style=for-the-badge&logo=can&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6B00?style=for-the-badge&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -81,10 +84,11 @@ Full-stack real-time telemetry platform for an electric Formula SAE race car.
 Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
 - Aggregates Shopify, Square, and Stripe into a single real-time analytics view
 - OAuth middleware layer integrating 200+ external tools via a single API abstraction
+- Morning digest feature delivering plain-English business summaries daily
 
 ---
 
-### 🤖 [IncidentStandard — AI Workplace Safety SaaS](https://github.com/addysha/incidentstandard)
+### 🏥 [IncidentStandard — AI Workplace Safety SaaS](https://github.com/addysha/incidentstandard)
 `Next.js 14 · Supabase · GPT-4o · PostgreSQL`
 
 AI-powered incident reporting and compliance platform for NZ workplaces.
@@ -113,7 +117,7 @@ Gesture-based PC volume control using real-time hand tracking — no hardware re
 ### 🌐 [Socket Programming Suite](https://github.com/addysha/SocketProgramming)
 `Java · InetAddress · Socket`
 
-Demonstrates low-level network programming in Java — TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
+Low-level network programming in Java — TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
 
 ---
 
@@ -122,25 +126,46 @@ Demonstrates low-level network programming in Java — TCP/UDP socket handling, 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addysha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addysha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addysha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=addysha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=addysha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Addy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addysha&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 Contribution Breakdown
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Addy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addysha&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addysha/addysha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addysha/addysha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/addysha/addysha/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
+
+> ⚙️ *Snake not showing? See setup instructions below.*
+>
+> <details>
+> <summary>Enable the contribution snake</summary>
+>
+> 1. In this repo, create `.github/workflows/snake.yml` with the workflow from the [setup guide](https://github.com/Platane/snk)
+> 2. Go to **Actions → Generate Snake Animation → Run workflow**
+> 3. The snake SVG will appear in the `output` branch and render here automatically
+>
+> </details>
 
 ---
 
@@ -158,7 +183,11 @@ Demonstrates low-level network programming in Java — TCP/UDP socket handling, 
 
 ## 🧩 LeetCode
 
+<div align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/addysharmaz?theme=dark&font=Baloo_2&ext=heatmap)](https://leetcode.com/addysharmaz)
+
+</div>
 
 ---
 
@@ -166,8 +195,6 @@ Demonstrates low-level network programming in Java — TCP/UDP socket handling, 
 
 *"Build things that move fast. Ship things that matter."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=addysha&color=58A6FF&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d2137,100:0D1117&height=100&section=footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer" />
