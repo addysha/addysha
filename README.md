@@ -32,41 +32,25 @@ I'm a Software Engineering graduate (University of Waikato, 2026) specialising i
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages & Core**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,cs,typescript,javascript,postgres&perrow=6" />
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative&perrow=6" />
 
 **Backend & Infrastructure**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-**Real-Time & IoT**
-
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6B00?style=for-the-badge&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,aws,docker,redis,supabase&perrow=6" />
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="left">
 
 ### 🏎️ [WESMO Formula SAE EV Telemetry System](https://github.com/addysha/WESMO-EV-Telemetry)
 `Python · React · AWS · Redis · PostgreSQL · MQTT · CAN Bus`
@@ -119,34 +103,13 @@ Gesture-based PC volume control using real-time hand tracking, no hardware requi
 
 Low-level network programming in Java - TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=addysha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addysha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=addysha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Addy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addysha&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<div align="center"> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addysha/addysha/output/github-contribution-grid-snake-dark.svg">
@@ -154,7 +117,7 @@ Low-level network programming in Java - TCP/UDP socket handling, InetAddress res
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/addysha/addysha/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</div>
+</div>               
 
 ---
 
