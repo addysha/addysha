@@ -156,17 +156,6 @@ Low-level network programming in Java — TCP/UDP socket handling, InetAddress r
 
 </div>
 
-> ⚙️ *Snake not showing? See setup instructions below.*
->
-> <details>
-> <summary>Enable the contribution snake</summary>
->
-> 1. In this repo, create `.github/workflows/snake.yml` with the workflow from the [setup guide](https://github.com/Platane/snk)
-> 2. Go to **Actions → Generate Snake Animation → Run workflow**
-> 3. The snake SVG will appear in the `output` branch and render here automatically
->
-> </details>
-
 ---
 
 ## 🎓 Certifications & Learning
