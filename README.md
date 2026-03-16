@@ -1,28 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
+
 # Aditya (Addy) Sharma
 
 **Software Engineer · University of Waikato, BE (Hons) · Auckland, NZ**
 
 *I build things that move fast, real-time pipelines, intelligent systems, and full-stack products.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-076116282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sharma-076116282)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addysha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addysharmap@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-I'm a Software Engineering graduate (University of Waikato, 2026) who specialises in **real-time data systems**, **full-stack development**, and **AI-integrated applications**. I've shipped production-grade code across IoT telemetry, cloud infrastructure, enterprise IT automation, and SaaS platforms.
+I'm a Software Engineering graduate (University of Waikato, 2026) specialising in **real-time data systems**, **full-stack development**, and **AI-integrated applications**. I've shipped production-grade code across IoT telemetry, cloud infrastructure, enterprise IT automation, and SaaS platforms.
 
-- 🔧 Currently building **StackIt** | a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
-- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** | 600+ msg/min, <250ms fault detection, AWS-backed
-- 🏙️ Past intern @ **Auckland Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
-- 🧠 AWS Solutions Architect certified | ML, Quantum Computing, Digital Twins coursework
-- 📍 Based in Auckland/Hamilton, NZ | Open to graduate roles
+- 🧱 Currently building **StackIt** — a modular analytics dashboard for NZ small businesses (Next.js, Shopify/Square/Stripe APIs, Redis)
+- 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** — 600+ msg/min, <250ms fault detection, AWS-backed
+- 🏛️ Past intern @ **Auckland City Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
+- ☁️ AWS Solutions Architect coursework | ML, Quantum Computing, Digital Twins
+- 📍 Based in Auckland/Hamilton, NZ · Open to graduate roles
 
 ---
 
@@ -32,7 +34,7 @@ I'm a Software Engineering graduate (University of Waikato, 2026) who specialise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -40,82 +42,113 @@ I'm a Software Engineering graduate (University of Waikato, 2026) who specialise
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Backend & Infrastructure**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Real-Time & IoT**
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6B35?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6B00?style=flat-square&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏎️ [WESMO Formula SAE EV Telemetry System](https://github.com/wesmoFSAE/2024-DAQ-VIS)
-> Python · React · AWS · Redis · PostgreSQL · MQTT · CAN Bus
+### 🏎️ [WESMO Formula SAE EV Telemetry System](https://github.com/addysha/WESMO-EV-Telemetry)
+`Python · React · AWS · Redis · PostgreSQL · MQTT · CAN Bus`
 
 Full-stack real-time telemetry platform for an electric Formula SAE race car.
-- **600+ messages/min** sustained during live track runs, **10 Hz** dashboard refresh
-- **<250ms** fault detection across 150+ signals (BMS, MCU, VCU) via Redis pre-fault engine
-- **Hybrid edge + AWS architecture** - buffered ingestion during connectivity loss, 100% data integrity
+- 600+ messages/min sustained during live track runs, 10 Hz dashboard refresh
+- <250ms fault detection across 150+ signals (BMS, MCU, VCU) via Redis pre-fault engine
+- Hybrid edge + AWS architecture — buffered ingestion during connectivity loss, 100% data integrity
 
 ---
 
-### 📊 [StackIt - Small Business Analytics Platform](https://github.com/addysha/stackit)
-> Next.js · TypeScript · Node.js · PostgreSQL · Redis · Shopify/Square/Stripe APIs
+### 📊 [StackIt — Small Business Analytics Platform](https://github.com/addysha/StackIt)
+`Next.js · TypeScript · Node.js · PostgreSQL · Redis · Shopify/Square/Stripe APIs`
 
 Modular drag-and-drop dashboard unifying real-time business data for NZ SMBs.
 - Aggregates Shopify, Square, and Stripe into a single real-time analytics view
-- OAuth middleware layer integrating **200+ external tools** via a single API abstraction
+- OAuth middleware layer integrating 200+ external tools via a single API abstraction
 
 ---
 
-### 🤖 [Believing is Seeing - Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
-> Python · Dart · HTML · DBpedia · Knowledge Graphs
+### 🤖 [IncidentStandard — AI Workplace Safety SaaS](https://github.com/addysha/incidentstandard)
+`Next.js 14 · Supabase · GPT-4o · PostgreSQL`
+
+AI-powered incident reporting and compliance platform for NZ workplaces.
+- GPT-4o guided incident capture with structured schema extraction
+- Role-based access across Workers, Supervisors, and Admins
+- Flat-license SaaS model targeting NZ/AU H&S compliance market
+
+---
+
+### 🎨 [Believing is Seeing — Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
+`Python · Dart · HTML · DBpedia · Knowledge Graphs`
 
 Real/fake AI-generated image game powered by a live knowledge-graph content engine.
 - Dynamic prompt generation using DBpedia entity queries
-- Robust retry logic ensuring **99% uptime** against external data sources
+- Robust retry logic ensuring 99% uptime against external data sources
 
 ---
 
-### 📡 [VolumeControl-CompVis](https://github.com/addysha/VolumeControl-CompVis)
-> Python · OpenCV · Computer Vision
+### 🖐️ [VolumeControl-CompVis](https://github.com/addysha/VolumeControl-CompVis)
+`Python · OpenCV · Computer Vision`
 
-Gesture-based PC volume control using real-time hand tracking via computer vision - no hardware required.
+Gesture-based PC volume control using real-time hand tracking — no hardware required.
 
 ---
 
 ### 🌐 [Socket Programming Suite](https://github.com/addysha/SocketProgramming)
-> Java · InetAddress · Socket
+`Java · InetAddress · Socket`
 
-Demonstrates low-level network programming in Java - TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
-
----
-
-### 🏦 [Bank Account Sorter](https://github.com/addysha/Bank-AccountSort)
-> Java · Data Structures · OOP
-
-Complex data structure implementation for sorting and filtering bank account records - demonstrates algorithmic thinking and clean OOP design.
+Demonstrates low-level network programming in Java — TCP/UDP socket handling, InetAddress resolution, and multi-client architecture.
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=addysha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addysha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=addysha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Breakdown
+
+<div align="center">
+
+[![Addy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addysha&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
 
 | Certification | Issuer | Date |
 |---|---|---|
-| AWS Certified Solutions Architect | Udemy | Jan 2026 |
+| AWS Solutions Architect — Course Completion | Udemy | Jan 2026 |
 | Machine Learning A-Z: AI, Python & R | Udemy | Feb 2026 |
 | Modelling New Zealand with AI & Digital Twins | Engineering NZ | Dec 2025 |
 | AI Data Management & Cyber Security Webinar | Live Event | Nov 2025 |
@@ -123,9 +156,9 @@ Complex data structure implementation for sorting and filtering bank account rec
 
 ---
 
-## 📈 LeetCode
+## 🧩 LeetCode
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=addysharmap&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/addysharmaz?theme=dark&font=Baloo_2&ext=heatmap)](https://leetcode.com/addysharmaz)
 
 ---
 
@@ -133,4 +166,8 @@ Complex data structure implementation for sorting and filtering bank account rec
 
 *"Build things that move fast. Ship things that matter."*
 
+![Profile Views](https://komarev.com/ghpvc/?username=addysha&color=58A6FF&style=flat-square&label=Profile+Views)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer" />
