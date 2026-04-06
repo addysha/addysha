@@ -82,6 +82,16 @@ AI-powered incident reporting and compliance platform for NZ workplaces.
 
 ---
 
+---
+### 🏥 [caelnex](https://github.com/addysha/caelnex-demo)
+`Neo4j · GraphQL · Apollo · React · TypeScript · Docker · Turborepo`
+
+Graph-native configuration management platform for aerospace engineering teams.
+Models complex part-component relationships as a native graph, enabling real-time dependency traversal and impact analysis across aircraft configurations
+GraphQL/Apollo Server API layer with Claude AI integration for intelligent configuration querying
+Monorepo architecture via Turborepo with Docker-containerised services for local and cloud parity
+---
+
 ### 🎨 [Believing is Seeing - Generative AI Art Game](https://github.com/addysha/Believing-is-Seeing)
 `Python · Dart · HTML · DBpedia · Knowledge Graphs`
 
