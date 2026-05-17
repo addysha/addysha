@@ -26,8 +26,6 @@ I'm a Software Engineering graduate (University of Waikato, 2026) specialising i
 - 🏎️ Engineered the **WESMO Formula SAE EV Telemetry System** - 600+ msg/min, <250ms fault detection, AWS-backed
 - 🏛️ Past intern @ **Auckland City Council** (ServiceNow automation) and **Torutek** (real-time GPS telemetry in C#)
 - ☁️ AWS Solutions Architect coursework | ML, Quantum Computing, Digital Twins
-- 📍 Based in Auckland/Hamilton, NZ · Open to graduate roles
-
 ---
 
 ## 🛠️ Tech Stack
